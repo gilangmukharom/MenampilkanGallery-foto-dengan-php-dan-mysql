@@ -121,7 +121,7 @@ li.navigasi a.navigasi:hover:not(.active) {
 <div class="navigasi">
       <ul class="navigasi">
         <li id="active" class="navigasi"><a class="navigasi" href="index.php">Home</a></li>
-        <li class="navigasi"><a class="navigasi" href="kontak.html">Contact</a></li>
+        <li class="navigasi"><a class="navigasi" href="kontak.php">Contact</a></li>
       </ul>
     </div>  
   <div class="body"> <div class="isi">
